@@ -1,0 +1,8 @@
+[
+  {
+    "name": "اسم التطبيق",
+    "package": "com.example.app",
+    "description": "وصف قصير",
+    "apkUrl": "https://example.com/app.apk"
+  }
+]
